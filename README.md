@@ -4,6 +4,8 @@
 <!-- 言語 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rin-t)](https://github.com/Rin-t "Top Langs")
 
+<!-- GithubStatus -->
+[![Rin's github stats](https://github-readme-stats.vercel.app/api?username=Rin-t&show_icons=true)](https://github.com/Rin-t "Rin's github stats")
 <!--
 **Rin-t/Rin-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
