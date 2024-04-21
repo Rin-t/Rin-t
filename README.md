@@ -6,10 +6,6 @@
 <!-- トロフィーのやつ -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rin-t)](https://github.com/Rin-t/github-profile-trophy)
 
-<!-- lapras -->
-<!--START_SECTION:lapras-card-->
-
-<!--END_SECTION:lapras-card-->
 
 <!-- 言語 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rin-t)](https://github.com/Rin-t "Top Langs")
