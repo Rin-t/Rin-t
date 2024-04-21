@@ -1,5 +1,10 @@
+[![Twitter](https://img.shields.io/twitter/follow/dokozon0?style=social)](https://twitter.com/dokozon0 "Twitter")
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Ri__/posts.svg)](http://qiita.com/Ri__ "My Qiita posts")
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ri__/contributions.svg)](http://qiita.com/Ri__ "My Qiita contributions")
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Ri__/followers.svg)](http://qiita.com/Ri__ "My Qiita followers")
+
 <!-- トロフィーのやつ -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rin-t)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rin-t)](https://github.com/Rin-t/github-profile-trophy)
 
 <!-- 言語 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rin-t)](https://github.com/Rin-t "Top Langs")
