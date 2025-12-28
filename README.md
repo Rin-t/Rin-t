@@ -3,13 +3,6 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/dokozon0/contributions.svg)](http://qiita.com/dokozon0 "My Qiita contributions")
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/dokozon0/followers.svg)](http://qiita.com/dokozon0 "My Qiita followers")
 
-<!-- トロフィーのやつ -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rin-t)](https://github.com/Rin-t/github-profile-trophy)
-
-
-<!-- 言語 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rin-t)](https://github.com/Rin-t "Top Langs")
-
 <!--
 **Rin-t/Rin-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
